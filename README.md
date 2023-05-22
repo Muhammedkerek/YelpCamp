@@ -1,2 +1,2 @@
 # YelpCamp
-Node.js app for creating campground using Express.js
+Node.js app for creating campgrounds using Express.js
